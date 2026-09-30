@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://g8gapp2026.com/sitemap.xml
